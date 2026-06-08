@@ -1,6 +1,8 @@
 # SongSearch Case Study
 Copyright © Kevin Song. All rights reserved. This repository is provided for portfolio and evaluation purposes only. No permission is granted to copy, modify, distribute, or use the code, designs, models, or documentation for commercial or academic submission purposes without written permission.
 
+Full source code is private to protect project integrity and user/data privacy. I’m happy to provide walkthrough access, selected source excerpts, or a private repo review for recruiters upon request.
+
 ### Introduction
 Created a cloud-based AI-powered music/song-similarity detector.
 
