@@ -3,6 +3,8 @@ Copyright © Kevin Song. All rights reserved. This repository is provided for po
 
 Full source code is private to protect project integrity and user/data privacy. I’m happy to provide walkthrough access, selected source excerpts, or a private repo review for recruiters upon request.
 
+Topics: `machine-learning`, `music-technology`, `react`, `typescript`, `firebase`, `google-cloud-run`, `audio-analysis`, `portfolio-case-study`
+
 ### Introduction
 Created a cloud-based AI-powered music/song-similarity detector.
 
